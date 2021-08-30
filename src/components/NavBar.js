@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <Navbar bg="light" variant="light">
       <Container>
-        <Navbar.Brand href="/">YouTube Downloader</Navbar.Brand>
+        <Navbar.Brand href="/">YouTube Video/Audio Downloader</Navbar.Brand>
       </Container>
     </Navbar>
   );
