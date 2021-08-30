@@ -54,6 +54,10 @@ const App = () =>{
         </div>
       )
     }
+    <br/>
+    <div>
+      <h3> Feel free to edit janky frontend !! </h3>
+    </div>
     </div>
   );
 }

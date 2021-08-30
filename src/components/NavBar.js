@@ -1,13 +1,16 @@
 import React from "react";
 import { Navbar, Container } from "react-bootstrap";
+import { ReactComponent as Logo } from '../logo.svg';
 
 const NavBar = () => {
   return (
+    <div>
     <Navbar bg="light" variant="light">
       <Container>
-        <Navbar.Brand href="/">YouTube Video/Audio Downloader</Navbar.Brand>
+        <Logo />
       </Container>
     </Navbar>
+    </div>
   );
 };
 
