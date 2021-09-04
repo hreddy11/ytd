@@ -1,8 +1,8 @@
-preview the site is hosted on netlify - https://sharp-mayer-c6ed6d.netlify.app/
+preview the site is hosted on netlify - [Youtube Video Downloader](https://sharp-mayer-c6ed6d.netlify.app/)
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
 
 ## Available Scripts
 
